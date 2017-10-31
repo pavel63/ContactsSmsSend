@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/android_razrab/AndroidStudioProjects/ContactsList/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/android_razrab/AndroidStudioProjects/ContactsList/app/src/main/AndroidManifest.xml:3:5-54
+		INJECTED from /Users/android_razrab/AndroidStudioProjects/ContactsList/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/android_razrab/AndroidStudioProjects/ContactsList/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/android_razrab/AndroidStudioProjects/ContactsList/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/android_razrab/AndroidStudioProjects/ContactsList/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/android_razrab/AndroidStudioProjects/ContactsList/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/android_razrab/AndroidStudioProjects/ContactsList/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/android_razrab/AndroidStudioProjects/ContactsList/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/android_razrab/AndroidStudioProjects/ContactsList/app/src/main/AndroidManifest.xml:5:5-71
+	android:name
+		ADDED from /Users/android_razrab/AndroidStudioProjects/ContactsList/app/src/main/AndroidManifest.xml:5:22-69
+uses-permission#android.permission.SEND_SMS
+ADDED from /Users/android_razrab/AndroidStudioProjects/ContactsList/app/src/main/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/android_razrab/AndroidStudioProjects/ContactsList/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /Users/android_razrab/AndroidStudioProjects/ContactsList/app/src/main/AndroidManifest.xml:8:5-22:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/android_razrab/.android/build-cache/c3804bb49dc7d365aae0a8b4ffdb39aecaa54c76/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/android_razrab/.android/build-cache/b31935020f374894bb5e740372a331b079e51d3c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/android_razrab/.android/build-cache/f594ad6d898e0e375b0d5fca6b80b77c5ccb4de7/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/android_razrab/.android/build-cache/372beac80c9c73e804424ef55963b86592530c50/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/android_razrab/.android/build-cache/7e963daaf98d6fcbae0dd191da8a522e20a05cd2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/android_razrab/.android/build-cache/e9c3dd5f598ef898324a4f2638ef51fcd48662b0/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/android_razrab/.android/build-cache/8b1320ab30615d88b6d9d97c935f056ff38cfefa/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/android_razrab/.android/build-cache/58810b6d90218423c94c5d3569f5e89cee8dc612/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/android_razrab/.android/build-cache/a0fd3bc945da324ff852cfd8fe01b750ea2757a0/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/android_razrab/.android/build-cache/c394bab233308942f93161dc66a6a0e400096f75/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/android_razrab/AndroidStudioProjects/ContactsList/app/src/main/AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from /Users/android_razrab/AndroidStudioProjects/ContactsList/app/src/main/AndroidManifest.xml:13:9-35
+	android:roundIcon
+		ADDED from /Users/android_razrab/AndroidStudioProjects/ContactsList/app/src/main/AndroidManifest.xml:12:9-54
+	android:allowBackup
+		ADDED from /Users/android_razrab/AndroidStudioProjects/ContactsList/app/src/main/AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from /Users/android_razrab/AndroidStudioProjects/ContactsList/app/src/main/AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from /Users/android_razrab/AndroidStudioProjects/ContactsList/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.example.android_razrab.contactslist.MainActivity
+ADDED from /Users/android_razrab/AndroidStudioProjects/ContactsList/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /Users/android_razrab/AndroidStudioProjects/ContactsList/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/android_razrab/AndroidStudioProjects/ContactsList/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/android_razrab/AndroidStudioProjects/ContactsList/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/android_razrab/AndroidStudioProjects/ContactsList/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/android_razrab/AndroidStudioProjects/ContactsList/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/android_razrab/AndroidStudioProjects/ContactsList/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/android_razrab/AndroidStudioProjects/ContactsList/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/android_razrab/.android/build-cache/c3804bb49dc7d365aae0a8b4ffdb39aecaa54c76/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/android_razrab/.android/build-cache/b31935020f374894bb5e740372a331b079e51d3c/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/android_razrab/.android/build-cache/f594ad6d898e0e375b0d5fca6b80b77c5ccb4de7/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/android_razrab/.android/build-cache/372beac80c9c73e804424ef55963b86592530c50/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/android_razrab/.android/build-cache/7e963daaf98d6fcbae0dd191da8a522e20a05cd2/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/android_razrab/.android/build-cache/e9c3dd5f598ef898324a4f2638ef51fcd48662b0/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/android_razrab/.android/build-cache/8b1320ab30615d88b6d9d97c935f056ff38cfefa/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/android_razrab/.android/build-cache/58810b6d90218423c94c5d3569f5e89cee8dc612/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/android_razrab/.android/build-cache/a0fd3bc945da324ff852cfd8fe01b750ea2757a0/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/android_razrab/.android/build-cache/c394bab233308942f93161dc66a6a0e400096f75/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/android_razrab/.android/build-cache/c3804bb49dc7d365aae0a8b4ffdb39aecaa54c76/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/android_razrab/AndroidStudioProjects/ContactsList/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/android_razrab/AndroidStudioProjects/ContactsList/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/android_razrab/AndroidStudioProjects/ContactsList/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/android_razrab/AndroidStudioProjects/ContactsList/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/android_razrab/.android/build-cache/c3804bb49dc7d365aae0a8b4ffdb39aecaa54c76/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/android_razrab/.android/build-cache/b31935020f374894bb5e740372a331b079e51d3c/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/android_razrab/.android/build-cache/f594ad6d898e0e375b0d5fca6b80b77c5ccb4de7/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/android_razrab/.android/build-cache/372beac80c9c73e804424ef55963b86592530c50/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/android_razrab/.android/build-cache/7e963daaf98d6fcbae0dd191da8a522e20a05cd2/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/android_razrab/.android/build-cache/e9c3dd5f598ef898324a4f2638ef51fcd48662b0/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/android_razrab/.android/build-cache/8b1320ab30615d88b6d9d97c935f056ff38cfefa/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/android_razrab/.android/build-cache/58810b6d90218423c94c5d3569f5e89cee8dc612/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/android_razrab/.android/build-cache/a0fd3bc945da324ff852cfd8fe01b750ea2757a0/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/android_razrab/.android/build-cache/c3804bb49dc7d365aae0a8b4ffdb39aecaa54c76/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/android_razrab/.android/build-cache/c3804bb49dc7d365aae0a8b4ffdb39aecaa54c76/output/AndroidManifest.xml:26:9-47

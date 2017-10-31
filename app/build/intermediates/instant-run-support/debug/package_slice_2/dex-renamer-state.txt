@@ -1,0 +1,4 @@
+#Tue Oct 31 11:35:53 MSK 2017
+base.0=/Users/android_razrab/AndroidStudioProjects/ContactsList/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
+renamed.0=classes.dex
+file.0=/Users/android_razrab/AndroidStudioProjects/ContactsList/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex

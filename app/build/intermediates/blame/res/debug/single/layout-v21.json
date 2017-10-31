@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/android_razrab/AndroidStudioProjects/ContactsList/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/android_razrab/.android/build-cache/c3804bb49dc7d365aae0a8b4ffdb39aecaa54c76/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/android_razrab/AndroidStudioProjects/ContactsList/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/android_razrab/.android/build-cache/c3804bb49dc7d365aae0a8b4ffdb39aecaa54c76/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/android_razrab/AndroidStudioProjects/ContactsList/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/android_razrab/.android/build-cache/c3804bb49dc7d365aae0a8b4ffdb39aecaa54c76/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/android_razrab/AndroidStudioProjects/ContactsList/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/android_razrab/.android/build-cache/c3804bb49dc7d365aae0a8b4ffdb39aecaa54c76/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]
